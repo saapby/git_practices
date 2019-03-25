@@ -2,6 +2,7 @@ exampleFileOne.txt
 1one row
 ---
 2two
+:) :) :)
 3three row
 ---
 4four
